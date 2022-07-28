@@ -1,3 +1,10 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Aleo&family=Fjalla+One&family=Josefin+Sans&family=Poppins:wght@400;500;700&family=Roboto+Condensed:ital@0;1&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
 .margin-bottom {
   margin-bottom: 6rem;
 }
