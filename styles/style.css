@@ -8,3 +8,9 @@ body{
 .margin-bottom {
   margin-bottom: 6rem;
 }
+/* Lelearning Institute */
+.details{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
